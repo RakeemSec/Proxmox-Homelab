@@ -13,20 +13,20 @@ I'm transitioning into a cybersecurity career, and I wanted practical experience
 - AdGuard Home
 - Nginx Proxy Manager
 - TrueNAS
-- Wazuh SIEM
-- TheHive
-- Snort IDS
 - Authentik
 - Uptime Kuma
 - Vaultwarden
 - BookStack
 - n8n
 
+## Related Projects
+
+- [soc-lab](https://github.com/RakeemSec/soc-lab) — the dedicated, network-segmented SOC lab for detection engineering and IR practice
+
 ## Repository Structure
 
 | Folder | Contents |
 | --- | --- |
 | `/authentik` | Authentik identity provider: SSO setup, providers, applications, and flows |
-| `/wazuh` | Wazuh SIEM: agent deployment, rules, decoders, and alerting configs |
 | `/networking` | Network design: pfSense, VLANs, firewall rules, DNS, and reverse proxy configs |
 | `/docs` | General documentation, write-ups, and guides for the lab |
