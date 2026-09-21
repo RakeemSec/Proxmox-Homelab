@@ -11,6 +11,7 @@ I'm transitioning into a cybersecurity career, and I wanted practical experience
 - Proxmox VE
 - pfSense
 - AdGuard Home
+- WireGuard
 - Nginx Proxy Manager
 - TrueNAS
 - Authentik
